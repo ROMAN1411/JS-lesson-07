@@ -52,4 +52,4 @@ console.log('-------------------------------');
     console.log(pizzaPalace.order('Vienna', makePizza, onOrderError));
     // pizzaPalace.order('Vienna', makePizza, onOrderError);
 }
-console.log('-------------------------------');
+// console.log('-------------------------------');
